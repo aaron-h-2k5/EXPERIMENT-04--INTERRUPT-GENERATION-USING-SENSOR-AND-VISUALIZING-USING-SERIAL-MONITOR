@@ -2,9 +2,9 @@
 
 ###  DATE: 
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: AARON H 
+###  ROLL NO : 212223040001
+###  DEPARTMENT: CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
